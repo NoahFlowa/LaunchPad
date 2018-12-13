@@ -19,9 +19,12 @@ Want to see a feature added?  Email me here --> [Right Here!](mailto:noah@noahos
 ### Tools used
 * ElectronJS
 * Node.JS
+* Angular 7
+* Express JS
 * HTML 5
 * CSS 3
 * JavaScript
+* MongoDB - AWS
 * Visual Studio Code
 
 ### Want to support the development of LaunchPad?
