@@ -1,27 +1,31 @@
 # LaunchPad
+LaunchPad is a new application from [Noah Osterhout](https://noahosterhout.com) that allows Development Teams to have all of their files, tasks, ToDo, etc all in one place.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+### LaunchPad Info
+LaunchPad is still in *very* early development.  I don't know if it'll take off or what features are to come.  Stay tuned!
+LaunchPad is also using the MIT License and is free for now.  This project may be taken private whenever I want, with/out warning.
 
-## Development server
+### Features
+| Feature       | Being Worked On? | Pure? |
+| ------------- |:----------------:| -----:|
+| Main Menu     |        Y         |   N   |
+| Settings      |        Y         |   N   |
+| User Accounts |        Y         |   N   |
+| Tasks         |        N         |   N   |
+| ToDo's        |        N         |   N   |
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Want to see a feature added?  Email me here --> [Right Here!](mailto:noah@noahosterhout.com)  Be sure to include in the Subject, the feature name!
 
-## Code scaffolding
+### Tools used
+* ElectronJS
+* Node.JS
+* HTML 5
+* CSS 3
+* JavaScript
+* Visual Studio Code
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Want to support the development of LaunchPad?
+Coming sooooooooon! (TM)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Legal
+Copyright 2018 [Noah Osterhout](https://noahosterhout.com)
