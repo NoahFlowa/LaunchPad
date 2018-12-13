@@ -32,5 +32,8 @@ Want to see a feature added?  Email me here --> [Right Here!](mailto:noah@noahos
 ### Want to support the development of LaunchPad?
 Coming sooooooooon! (TM)
 
+### Discord!
+I'm thinking about creating a Discord for the hell of it.  Stay tuned!
+
 ### Legal
 Copyright 2018 [Noah Osterhout](https://noahosterhout.com)
