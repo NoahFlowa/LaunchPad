@@ -10,22 +10,24 @@ LaunchPad is also using the MIT License and is free for now.  This project may b
 | ------------- |:----------------:| -----:|
 | Main Menu     |        Y         |   N   |
 | Settings      |        Y         |   N   |
-| User Accounts |        Y         |   N   |
+| User Accounts |        N         |   N   |
 | Tasks         |        N         |   N   |
 | ToDo's        |        N         |   N   |
+| Projects      |        N         |   N   |
 
 Want to see a feature added?  Email me here --> [Right Here!](mailto:noah@noahosterhout.com)  Be sure to include in the Subject, the feature name!
 
 ### Tools used
-* ElectronJS
-* Node.JS
-* Angular 7
-* Express JS
-* HTML 5
-* CSS 3
-* JavaScript
-* MongoDB - AWS
-* Visual Studio Code
+##### Editor
+* [Visual Studio Code](https://code.visualstudio.com/)
+##### Libraries | Frameworks
+* [ElectronJS](https://electronjs.org/)
+* [Node.JS](https://nodejs.org/en/)
+* [Angular 7](https://angular.io/)
+* [Express JS](https://expressjs.com/)
+* [mongoose](https://mongoosejs.com/)
+##### Backend
+* [MongoDB - AWS](https://www.mongodb.com/cloud/atlas)
 
 ### Want to support the development of LaunchPad?
 Coming sooooooooon! (TM)
